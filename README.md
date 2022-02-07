@@ -2,7 +2,7 @@
     <img alt="Banner" title="#banner" src="./assets/banner/banner.png" />
 </h1>
 
-<h2 align="center">🚧 This project is under construction🚧</h2>
+<h2 align="center">🚧 This project is under construction 🚧</h2>
 <h4 align="center">as soon as it is finished I will post it here 😄</h4>
 
 <br>
